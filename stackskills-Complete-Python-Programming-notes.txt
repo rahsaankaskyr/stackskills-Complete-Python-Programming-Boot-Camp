@@ -1,2 +1,6 @@
 
 stackskills.com - Complete Python Programming Boot Camp - Joydip Ghosh
+
+
+> Introduction To Python - Install The IDE 
+	- python.org
