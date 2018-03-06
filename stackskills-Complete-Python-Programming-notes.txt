@@ -4,3 +4,15 @@ stackskills.com - Complete Python Programming Boot Camp - Joydip Ghosh
 
 > Introduction To Python - Install The IDE 
 	- python.org
+
+> switch versions of python on Mac
+	$ python
+ 		version 2.7.5
+	$ python3.3
+    		version 3.3
+
+> variables 
+	- location to store data
+	- variable_name = "Value"
+
+
